@@ -1,0 +1,7 @@
+This Email Validator includes:
+
+1. Email should have "@".
+2. All letters of email should be lowercase.
+3. Email shuold not Start with Number.
+4. Email should not contain special characters other than "@", "_" and ".".
+5. Email should not Contain White Spaces.
